@@ -1,3 +1,6 @@
+# Project temporerily abandoned
+I am too lazy to complete it right now so i am officially abandoning this project for now
+
 ## Prerequisites
 
 - Deno (I am using 2.1.4 but idk).
